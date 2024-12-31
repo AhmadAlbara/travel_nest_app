@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TravelNest</string>
+    <string name ="open_quote">\u00ab</string>
+    <string name ="close_quote">\u00bb</string>
+</resources>
